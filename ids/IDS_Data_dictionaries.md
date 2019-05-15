@@ -1,5 +1,10 @@
 # Data Dictionary for Identity Data Source tables.
 
+### IDS Schema
+Identity Data Store schema for data representation
+
+![IDS](img/ids_schema.png)
+
 #### Terms used:
 - User :- Any person utilising the Ed platform who is uniquely identifiable using the userrefid.
 - Group :- A wrapper under which multiple students from a section can be grouped together for a specific task.
